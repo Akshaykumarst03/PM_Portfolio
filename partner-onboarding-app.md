@@ -14,5 +14,4 @@
 - Onboarding time reduced from days to hours; improved partner experience and transparency.
 
 ## Artifacts
-- `workflow.png` (Figma/draw.io)
-- `/screenshots/` (mock UI)
+- https://magma-id-83011987.figma.site/
