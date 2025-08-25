@@ -15,7 +15,7 @@ This portfolio showcases anonymized, conceptual case studies and prototypes. No 
 2. **Employee Incentive Application** → [Read case study](employee-incentives-app.md)  
    Automated incentive rules/workflows; eliminated spreadsheet dependency; improved payout accuracy & timeliness.
 
-3. **Partner Onboarding Application** → [Read case study](./partner-onboarding-app/README.md)  
+3. **Partner Onboarding Application** → [Read case study](partner-onboarding-app.md)  
    Digitized onboarding with guided steps, document verification, e‑sign, and real‑time tracking; onboarding time cut from days to hours.
 
 ---
