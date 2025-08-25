@@ -14,4 +14,4 @@
 - Onboarding time reduced from days to hours; improved partner experience and transparency.
 
 ## Artifacts
-- https://magma-id-83011987.figma.site/
+- https://magma-id-83011987.figma.site/ (This is a mock of the app created)
