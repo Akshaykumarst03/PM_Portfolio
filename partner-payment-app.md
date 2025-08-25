@@ -25,3 +25,6 @@ At my workplace, partner payment processing involved **high-volume manual calcul
 - ⚡ Faster clearance through **e-Sign integration**.  
 - 🙌 Clients experienced reduced friction with **instant re-application** and **live visibility**.  
 - 💰 Cost-efficient system that boosted transparency, compliance, efficiency, and trust with partners.
+
+- ## Artifacts
+- https://magma-id-83011987.figma.site/ (This is a mock of the app created)
