@@ -21,7 +21,7 @@ This portfolio showcases anonymized, conceptual case studies and prototypes. No 
 ---
 
 ## 🎨 Prototypes & Wireframes (Figma)
-- Payment Tracker Prototype: _Add Link_
+- Payment Tracker Prototype: https://magma-id-83011987.figma.site/ (This is a mock of the app created)
 - Incentive App Flow: _Add Link_
 - Onboarding Wizard: _Add Link_
 
