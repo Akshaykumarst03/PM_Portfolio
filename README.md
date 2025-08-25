@@ -12,7 +12,7 @@ This portfolio showcases anonymized, conceptual case studies and prototypes. No 
 1. **Partner Payment Application** → [Read case study](partner-payment-app.md)  
    Automated high-volume partner payment calculations with **e‑sign**, live status updates, and dashboards; reduced TAT by **90%** and achieved **100% accuracy**.
 
-2. **Employee Incentive Application** → [Read case study](./employee-incentives-app/README.md)  
+2. **Employee Incentive Application** → [Read case study](employee-incentives-app.md)  
    Automated incentive rules/workflows; eliminated spreadsheet dependency; improved payout accuracy & timeliness.
 
 3. **Partner Onboarding Application** → [Read case study](./partner-onboarding-app/README.md)  
