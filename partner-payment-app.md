@@ -1,4 +1,4 @@
-# Partner Payment Application 💳 (Conceptual)
+# Partner Payment Application 💳
 
 ## Problem / Need
 - Manual partner payment calculations led to **high error rates**, **data loss**, and **TAT > 10 days** after clearances.
