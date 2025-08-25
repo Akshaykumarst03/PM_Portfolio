@@ -7,7 +7,7 @@ This portfolio showcases anonymized, conceptual case studies and prototypes. No 
 
 ---
 
-## 🚀 Case Studies
+## 🚀 Projects Worked-On
 
 1. **Partner Payment Application** → [Read case study](partner-payment-app.md)  
    Automated high-volume partner payment calculations with **e‑sign**, live status updates, and dashboards; reduced TAT by **90%** and achieved **100% accuracy**.
