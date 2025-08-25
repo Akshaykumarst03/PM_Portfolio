@@ -1,32 +1,27 @@
-# Partner Payment Application 💳
+### Problem / Need
+At my workplace, partner payment processing involved **high-volume manual calculations**, a **vague approval matrix**, and frequent **data losses** and **errors**. Turnaround time (TAT) stretched to **10+ days** after clearances. Incorrect invoices further added to delays, creating inefficiency, compliance risks, and partner dissatisfaction.
 
-## Problem / Need
-- Manual partner payment calculations led to **high error rates**, **data loss**, and **TAT > 10 days** after clearances.
-- Approval matrix was vague; invoice rectifications added more delays and cycles.
+### My Role
+- Identified bottlenecks and mapped the broken workflow.  
+- Designed a **workflow matrix** to minimize risks while ensuring compliance.  
+- Authored a detailed **Business Requirement Document (BRD)** and collaborated with developers.  
+- Led **UAT (User Acceptance Testing)** at each stage to ensure data integrity and process alignment.  
+- Coordinated stakeholder reviews, incorporated feedback, and drove the final launch.  
 
-## My Role
-- Identified bottlenecks; designed a **risk‑minimizing, compliant workflow matrix**.
-- Authored the **BRD**, collaborated with developers, and led **UAT at each stage**.
-- Coordinated stakeholder reviews, incorporated feedback, and drove the final launch.
+### Solution
+- Automated partner payment calculations with an **approval-driven workflow**.  
+- Introduced **e-Sign feature for invoicing**, streamlining approvals and accelerating payment clearance.  
+- Enabled clients to receive **live updates on invoice status** (accepted/rejected).  
+- Allowed **instant re-application of rejected invoices**, cutting down wait cycles.  
+- Built in **data dashboards** to show:  
+  - Status (yet-to-be-initiated, initiated, WIP, paid).  
+  - TAT by each approving authority.  
+  - Real-time reporting for stakeholders.  
+- Provided **transparent tracking** for both stakeholders and clients.  
 
-## Solution
-- Automated calculations with an **approval‑driven workflow**.
-- Introduced **e‑Sign for invoicing** to speed approvals and payment clearance.
-- **Live updates** to clients on invoice status (accepted/rejected) with **instant re‑apply** on rejection.
-- **Dashboards** showing:
-  - Status: *Yet to be initiated • Initiated • WIP • Paid*
-  - **TAT by approving authority**
-  - Real‑time stakeholder reports and transparency for clients.
-
-## Outcome / Impact
-- ✅ **100% accuracy** in payments
-- ⏱ **90% reduction in TAT** (from ~10 days to <1 day)
-- ⚡ Faster clearance via e‑Sign; fewer back‑and‑forth cycles
-- 🙌 Higher partner trust and stakeholder transparency
-
-## Artifacts (anonymized)
-- `workflow-diagram.png` (export from Figma/draw.io)
-- [`brd-sample.md`](./brd-sample.md)
-- `/screenshots/` (mock dashboards / flows — with dummy data)
-
-> Note: This is a **conceptual** recreation to protect confidentiality.
+### Outcome / Impact
+- ✅ **100% accuracy** in partner payment processing.  
+- ⏱ **90% reduction in TAT** (from ~10 days to <1 day).  
+- ⚡ Faster clearance through **e-Sign integration**.  
+- 🙌 Clients experienced reduced friction with **instant re-application** and **live visibility**.  
+- 💰 Cost-efficient system that boosted transparency, compliance, efficiency, and trust with partners.
